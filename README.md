@@ -92,6 +92,6 @@ rf_model.fit(X_train, y_train)
 ## Contributors
 Nguyễn Hoàng Lý - ITITIU20249
 Nguyễn Đỗ Tú Vy - ITITIU20125
-Trịnh Thị Như Quỳnh - ITITIU20201
+Trịnh Thị Như Quỳnh - ITITIU20291
 
 
