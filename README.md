@@ -11,9 +11,9 @@ List the requirements for running your project. This could include things like:
 - Python 3.11
 - Libraries: numpy, seaborn, matplotlib, sklearn, plotly, pandas
 
-## Installation
+## How to run?
 - Carefully import train dataset directory
-- Run step by step to gain results
+- Run step by step "main.ipynb" to gain results
 
 ## Dataset Description
 
@@ -88,9 +88,10 @@ svm_model.fit(X_train, y_train)
 dt_model.fit(X_train, y_train)
 rf_model.fit(X_train, y_train)
 
-
-## Contributing
+```
+## Contributors
 Nguyễn Hoàng Lý - ITITIU20249
-Trịnh Thị Như Quỳnh - ITITIU20201
 Nguyễn Đỗ Tú Vy - ITITIU20125
+Trịnh Thị Như Quỳnh - ITITIU20201
+
 
